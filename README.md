@@ -1,10 +1,6 @@
-Porto 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif">
 
-[IBM Applied Data Science Capstone Project - SpaceX](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone)
-
-https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif
-
-📫 How to reach me **abdulkamilkarim@gmail.com**
+<h3 align="left"> Website: https://kamillearn.github.io/kamilkarim.io/ </h3>
 
 
 <h3 align="left">Connect with me:</h3>
